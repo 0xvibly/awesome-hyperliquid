@@ -173,3 +173,4 @@ Check custody, fees and copy rules on each product's own pages before connecting
 
 Additions and fixes are welcome. Read the [contribution guidelines](CONTRIBUTING.md) first: one entry per pull request, a live product that states Hyperliquid support on its own site, and a neutral description.
 
+If this list helped you, a star helps others find it.
