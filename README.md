@@ -6,10 +6,13 @@ A curated list of Hyperliquid trading apps, mobile apps, copy trading, bots, ana
 
 Every entry is live, states Hyperliquid support on its own site and was active in 2026.
 
-Last review: 2026-11-19. Contributions welcome, see [Contributing](#contributing).
+Last review: 2026-11-25. Contributions welcome, see [Contributing](#contributing).
+
+⭐ Star this repo to get updates when new Hyperliquid tools are added.
 
 ## Contents
 
+- [Recently added](#recently-added)
 - [How to choose a Hyperliquid app](#how-to-choose-a-hyperliquid-app)
 - [Official](#official)
 - [Trading apps](#trading-apps)
@@ -25,6 +28,11 @@ Last review: 2026-11-19. Contributions welcome, see [Contributing](#contributing
 - [Developer tools](#developer-tools)
 - [Learning](#learning)
 - [Risk and safety](#risk-and-safety)
+
+## Recently added
+
+- 2026-11-25: [Ironflow](#developer-tools), [HL Risk Watch](#wallet-trackers), [LabelYX](#wallet-trackers), [Ownbit](#wallets), [senpi-plugin](#developer-tools), [TikTape](#developer-tools).
+- 2026-11-20: [AlphaYou](#copy-trading), [PerpGuard](#trading-bots).
 
 ## How to choose a Hyperliquid app
 
@@ -155,6 +163,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [Hummingbot](https://github.com/hummingbot/hummingbot) - Open-source market-making framework with Hyperliquid connectors.
 - [Hydromancer](https://hydromancer.xyz) - REST, WebSocket, order book and historical Hyperliquid data.
 - [Ironflow](https://ironflow.sh) - REST, SQL and MCP access to Hyperliquid fills, liquidations and funding from its own nodes.
+- [TikTape](https://tiktape.xyz) - Hyperliquid OHLCV history API past the 5000-candle limit.
 - [Hyperliquid testnet](https://app.hyperliquid-testnet.xyz) - Official testnet app with faucet funds.
 - [senpi-plugin](https://github.com/Senpi-ai/senpi-plugin) - Read-only Hyperliquid research tools for Claude Code, Codex and Cursor; needs a Senpi sign-in.
 
@@ -178,4 +187,8 @@ Check custody, fees and copy rules on each product's own pages before connecting
 
 Additions and fixes are welcome. Read the [contribution guidelines](CONTRIBUTING.md) first: one entry per pull request, a live product that states Hyperliquid support on its own site, and a neutral description.
 
-If this list helped you, a star helps others find it.
+If this list helped you, a star helps others find it. Listed projects can add this badge to their README:
+
+```markdown
+[![Listed in Awesome Hyperliquid](https://awesome.re/mentioned-badge.svg)](https://github.com/Celebit-Labs/awesome-hyperliquid)
+```
