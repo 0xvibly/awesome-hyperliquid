@@ -156,6 +156,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [Hydromancer](https://hydromancer.xyz) - REST, WebSocket, order book and historical Hyperliquid data.
 - [Ironflow](https://ironflow.sh) - REST, SQL and MCP access to Hyperliquid fills, liquidations and funding from its own nodes.
 - [Hyperliquid testnet](https://app.hyperliquid-testnet.xyz) - Official testnet app with faucet funds.
+- [senpi-plugin](https://github.com/Senpi-ai/senpi-plugin) - Read-only Hyperliquid research tools for Claude Code, Codex and Cursor; needs a Senpi sign-in.
 
 ## Learning
 
