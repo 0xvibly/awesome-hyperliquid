@@ -121,6 +121,7 @@ Check custody, fees and copy rules on each product's own pages before connecting
 - [HL Risk Watch](https://hl-risk-watch.pages.dev/) - Watch-only liquidation distance and funding drain for any public Hyperliquid address.
 - [HyperTracker](https://hypertracker.io) - Wallet and whale tracker with position feeds and an API.
 - [LabelYX](https://labelyx.xyz) - Free wallet tracker with PnL, win rate, net deposits, positions and liquidation distance.
+- [liquidation.lol](https://liquidation.lol/whales) - Live positions of $1M+ Hyperliquid wallets, with leverage and distance to liquidation.
 - [Nansen](https://www.nansen.ai/hyperliquid) - Wallet labels and smart-money tracking for Hyperliquid.
 
 ## HIP-3 markets
